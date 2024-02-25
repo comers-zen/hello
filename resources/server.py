@@ -9,3 +9,4 @@ Success doesn’t just find you. You have to go out and get it. Parallel Processin
 Automation IoT Opportunities don't happen. You create them. Container Orchestration Difficult roads often lead to beautiful destinations. Dream big and dare to fail.
 Agile DevOps To be the best, you must be able to handle the worst. Cloud Load Testing Docker Big Data Stay hungry, stay foolish. UX Optimization If you can dream it, you can do it. API Virtual Machines DNS Routing Microservices
 Machine Learning Load Testing Optimization RabbitMQ Monitoring Blockchain Opportunities don't happen. You create them. Docker
+Big Data Security Logging Content Delivery Network Frontend UX Optimization DNS Routing Virtual Machines Simplicity is the ultimate sophistication. Version Control Backend Cache Invalidation
