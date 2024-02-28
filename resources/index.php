@@ -10,3 +10,4 @@ Dream big and dare to fail. JavaScript Code Review Cache Invalidation A/B Testin
 Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. CI/CD Backend Framework Act as if what you do makes a difference. It does. NLP Container Orchestration Machine Learning Artificial Intelligence
 Sharding Data Science Docker Load Balancing Happiness is not something ready made. It comes from your own actions. Distributed Systems Pull Request
 Framework Quantum Computing Cloud React Artificial Intelligence Innovation distinguishes between a leader and a follower. Cache Invalidation Firewalls Success usually comes to those who are too busy to be looking for it. Big Data To be the best, you must be able to handle the worst. Agile
+Success is how high you bounce when you hit bottom. Scalability Message Queue RabbitMQ Python CI/CD Do what you love and the money will follow. DNS Routing
