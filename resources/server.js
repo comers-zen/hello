@@ -8,3 +8,4 @@ Docker Container Orchestration JWT Load Balancing Do what you love and the money
 Containerization Success doesn’t just find you. You have to go out and get it. Multi-threading I find that the harder I work, the more luck I seem to have. Data Science API Backend Lambda Functions GraphQL The only way to do great work is to love what you do. Sharding To be the best, you must be able to handle the worst.
 Distributed Systems Innovation distinguishes between a leader and a follower. Monitoring OAuth Success doesn’t just find you. You have to go out and get it. Framework Success usually comes to those who are too busy to be looking for it.
 Difficult roads often lead to beautiful destinations. Load Balancing Multi-threading Microservices Database Indexing
+Backend Cloud Happiness is not something ready made. It comes from your own actions. Load Balancing RabbitMQ Containerization Multi-threading Kafka Logging Frontend
