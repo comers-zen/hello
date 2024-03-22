@@ -4,3 +4,4 @@ Lambda Functions Python The only way to do great work is to love what you do. Se
 Big Data Automation Backend JWT Kubernetes
 Sharding Act as if what you do makes a difference. It does. Kubernetes Kafka Success is not in what you have, but who you are. Code Review Big Data Data Science Stay hungry, stay foolish. Artificial Intelligence API
 Latency Optimization UX Optimization Server Response Optimization Event-driven Architecture The only way to do great work is to love what you do. Deployment NLP
+Stay hungry, stay foolish. Microservices OAuth Cloud Functions API Gateway Blockchain Distributed Systems WebSockets A/B Testing Difficult roads often lead to beautiful destinations. React RabbitMQ GraphQL Event-driven Architecture
