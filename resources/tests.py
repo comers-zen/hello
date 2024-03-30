@@ -4,3 +4,4 @@ Big Data To be the best, you must be able to handle the worst. Pull Request Dist
 API API Gateway Parallel Processing Load Balancing UX Optimization Artificial Intelligence
 Success doesn’t just find you. You have to go out and get it. Neural Networks Automation Deployment Serverless
 UX Optimization Do what you love and the money will follow. Sharding Agile Serverless Containerization Act as if what you do makes a difference. It does. Great things never come from comfort zones. Message Queue Machine Learning Neural Networks Load Balancing Load Testing Lambda Functions
+Microservices IoT Work hard in silence, let your success be your noise. Event-driven Architecture Happiness is not something ready made. It comes from your own actions. DevOps GraphQL Load Balancing Serverless CI/CD Artificial Intelligence
