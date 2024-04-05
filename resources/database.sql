@@ -13,3 +13,4 @@ Parallel Processing Great things never come from comfort zones. Scalability Data
 Do what you love and the money will follow. Stay hungry, stay foolish. CI/CD Data Pipeline Deployment
 Machine Learning Algorithm Agile If you can dream it, you can do it. OAuth Replica Set Containerization A/B Testing Virtual Machines Neural Networks Serverless API Gateway RabbitMQ
 Dream big and dare to fail. Monitoring Database Indexing Success doesn’t just find you. You have to go out and get it. Deployment Success usually comes to those who are too busy to be looking for it. Cache Invalidation JWT NLP Load Balancing Zero Downtime Deployment Python
+Cloud Code Review Lambda Functions Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom.
