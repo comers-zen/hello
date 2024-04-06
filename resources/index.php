@@ -7,3 +7,4 @@ Testing WebSockets Load Balancing Work hard in silence, let your success be your
 Microservices Innovation distinguishes between a leader and a follower. Virtual Machines Content Delivery Network If you can dream it, you can do it. Cloud
 Frontend Machine Learning Artificial Intelligence Automation JavaScript Blockchain
 Dream big and dare to fail. JavaScript Code Review Cache Invalidation A/B Testing API Security Multi-threading Data Pipeline
+Don't be afraid to give up the good to go for the great. Innovation distinguishes between a leader and a follower. CI/CD Backend Framework Act as if what you do makes a difference. It does. NLP Container Orchestration Machine Learning Artificial Intelligence

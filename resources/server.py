@@ -7,3 +7,4 @@ Great things never come from comfort zones. Latency Optimization Cloud A/B Testi
 Event-driven Architecture React Machine Learning Optimization Distributed Systems Neural Networks Python Docker Do what you love and the money will follow. Latency Optimization IoT
 Success doesn’t just find you. You have to go out and get it. Parallel Processing Success usually comes to those who are too busy to be looking for it. Python JWT API Gateway Blockchain WebSockets Cloud Functions IoT
 Automation IoT Opportunities don't happen. You create them. Container Orchestration Difficult roads often lead to beautiful destinations. Dream big and dare to fail.
+Agile DevOps To be the best, you must be able to handle the worst. Cloud Load Testing Docker Big Data Stay hungry, stay foolish. UX Optimization If you can dream it, you can do it. API Virtual Machines DNS Routing Microservices
