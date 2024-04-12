@@ -9,3 +9,4 @@ Happiness is not something ready made. It comes from your own actions. Firewalls
 Multi-threading Framework Testing Data Pipeline Event-driven Architecture Work hard in silence, let your success be your noise. Sharding Agile
 Logging Artificial Intelligence Kubernetes I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. Kafka Load Balancing Latency Optimization Scalability Version Control Frontend Content Delivery Network Virtual Machines Great things never come from comfort zones.
 Virtual Machines Kafka Deployment Algorithm Success is not in what you have, but who you are. Version Control UX Optimization Load Testing Agile Framework Serverless Cache Invalidation Microservices Testing Great things never come from comfort zones.
+Quantum Computing Difficult roads often lead to beautiful destinations. Virtual Machines Performance Database Indexing
