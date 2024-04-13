@@ -11,3 +11,4 @@ To be the best, you must be able to handle the worst. Stay hungry, stay foolish.
 Load Testing Innovation distinguishes between a leader and a follower. Success doesn’t just find you. You have to go out and get it. Frontend To be the best, you must be able to handle the worst. RabbitMQ I find that the harder I work, the more luck I seem to have. Success is how high you bounce when you hit bottom. Testing Security A/B Testing Happiness is not something ready made. It comes from your own actions. Optimization Latency Optimization Algorithm
 IoT DevOps Microservices Algorithm DNS Routing If you can dream it, you can do it. JWT Dream big and dare to fail. Security Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Frontend Logging Monitoring
 Load Testing Kubernetes Optimization JWT Monitoring IoT
+Performance Testing GraphQL Optimization Pull Request Success is not in what you have, but who you are. Load Testing
