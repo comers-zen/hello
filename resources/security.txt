@@ -13,3 +13,4 @@ Security Happiness is not something ready made. It comes from your own actions. 
 Firewalls API Gateway Work hard in silence, let your success be your noise. Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Container Orchestration Sharding CI/CD JavaScript Lambda Functions
 Server Response Zero Downtime Deployment Message Queue React Distributed Systems Monitoring Backend Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Multi-threading Docker Load Balancing Don't be afraid to give up the good to go for the great. Logging Great things never come from comfort zones.
 Big Data Frontend Algorithm Scalability Security Blockchain
+Pull Request DevOps Cloud Functions Optimization Zero Downtime Deployment Backend Framework Opportunities don't happen. You create them. Quantum Computing Success is not in what you have, but who you are.
