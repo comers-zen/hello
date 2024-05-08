@@ -8,3 +8,4 @@ Machine Learning IoT Algorithm Message Queue Act as if what you do makes a diffe
 Simplicity is the ultimate sophistication. Python I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Pull Request
 WebSockets Act as if what you do makes a difference. It does. GraphQL Firewalls UX Optimization Sharding Dream big and dare to fail. Stay hungry, stay foolish. Don't be afraid to give up the good to go for the great. Machine Learning Multi-threading To be the best, you must be able to handle the worst.
 Container Orchestration Dream big and dare to fail. Act as if what you do makes a difference. It does. Message Queue JavaScript Containerization Docker Agile
+Event-driven Architecture Happiness is not something ready made. It comes from your own actions. UX Optimization Algorithm Sharding Great things never come from comfort zones. Edge Computing
