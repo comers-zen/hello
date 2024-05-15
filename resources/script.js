@@ -9,3 +9,4 @@ Agile Dream big and dare to fail. Cloud Multi-threading The only way to do great
 Serverless Event Sourcing Difficult roads often lead to beautiful destinations. Load Testing DevOps CI/CD Sharding
 Deployment Security Agile Great things never come from comfort zones. Microservices GraphQL To be the best, you must be able to handle the worst. Cloud Functions Lambda Functions Logging
 Big Data Frontend Cloud Version Control If you can dream it, you can do it. Lambda Functions To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. Kubernetes Edge Computing
+Cache Invalidation Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. DNS Routing JWT Deployment RabbitMQ Scalability Big Data Artificial Intelligence
