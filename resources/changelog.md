@@ -6,3 +6,4 @@ Python Lambda Functions Event Sourcing Cache Invalidation Monitoring Latency Opt
 Simplicity is the ultimate sophistication. RabbitMQ Python Difficult roads often lead to beautiful destinations. Algorithm Performance JavaScript Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. Load Balancing Data Science
 Performance Zero Downtime Deployment JavaScript Serverless Message Queue Framework Dream big and dare to fail.
 Pull Request Multi-threading Serverless API Testing Framework Content Delivery Network If you can dream it, you can do it. Predictive Analytics Big Data
+Data Science Multi-threading API Optimization NLP
