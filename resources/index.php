@@ -5,3 +5,4 @@ Success is not in what you have, but who you are. Innovation distinguishes betwe
 JavaScript Act as if what you do makes a difference. It does. DevOps Security Database Indexing Kafka Framework Replica Set Stay hungry, stay foolish. Agile
 Testing WebSockets Load Balancing Work hard in silence, let your success be your noise. Database Indexing
 Microservices Innovation distinguishes between a leader and a follower. Virtual Machines Content Delivery Network If you can dream it, you can do it. Cloud
+Frontend Machine Learning Artificial Intelligence Automation JavaScript Blockchain
