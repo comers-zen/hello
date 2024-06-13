@@ -12,3 +12,4 @@ DNS Routing Testing Server Response Quantum Computing Don't be afraid to give up
 Parallel Processing Great things never come from comfort zones. Scalability Database Indexing JWT Message Queue Event-driven Architecture Content Delivery Network OAuth I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment
 Do what you love and the money will follow. Stay hungry, stay foolish. CI/CD Data Pipeline Deployment
 Machine Learning Algorithm Agile If you can dream it, you can do it. OAuth Replica Set Containerization A/B Testing Virtual Machines Neural Networks Serverless API Gateway RabbitMQ
+Dream big and dare to fail. Monitoring Database Indexing Success doesn’t just find you. You have to go out and get it. Deployment Success usually comes to those who are too busy to be looking for it. Cache Invalidation JWT NLP Load Balancing Zero Downtime Deployment Python
