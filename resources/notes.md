@@ -3,3 +3,4 @@ WebSockets Docker To be the best, you must be able to handle the worst. Blockcha
 UX Optimization A/B Testing DevOps Innovation distinguishes between a leader and a follower. Predictive Analytics Database
 Quantum Computing Great things never come from comfort zones. Code Review DNS Routing Server Response Distributed Systems Monitoring Success doesn’t just find you. You have to go out and get it.
 Cache Invalidation Docker API Gateway Kubernetes Quantum Computing Neural Networks DNS Routing
+Framework Performance Don't be afraid to give up the good to go for the great. Version Control Opportunities don't happen. You create them. Backend Cloud Containerization Difficult roads often lead to beautiful destinations. Agile Monitoring Sharding Microservices
