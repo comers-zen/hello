@@ -9,3 +9,4 @@ CI/CD Stay hungry, stay foolish. Load Balancing Framework Event Sourcing GraphQL
 Algorithm WebSockets Database API Gateway JavaScript Predictive Analytics Lambda Functions NLP A/B Testing Code Review Edge Computing
 Database Indexing API Deployment Difficult roads often lead to beautiful destinations. Frontend Great things never come from comfort zones. Parallel Processing Do what you love and the money will follow.
 Version Control Stay hungry, stay foolish. Cache Invalidation OAuth Container Orchestration Success usually comes to those who are too busy to be looking for it. DNS Routing API Gateway WebSockets Zero Downtime Deployment Neural Networks Agile NLP
+Load Balancing Kafka Serverless Success doesn’t just find you. You have to go out and get it. API Gateway Replica Set Firewalls React Data Science Edge Computing Big Data Performance
