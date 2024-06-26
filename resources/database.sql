@@ -11,3 +11,4 @@ Parallel Processing Logging Event Sourcing Message Queue Neural Networks Work ha
 DNS Routing Testing Server Response Quantum Computing Don't be afraid to give up the good to go for the great. Database Indexing Version Control
 Parallel Processing Great things never come from comfort zones. Scalability Database Indexing JWT Message Queue Event-driven Architecture Content Delivery Network OAuth I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment
 Do what you love and the money will follow. Stay hungry, stay foolish. CI/CD Data Pipeline Deployment
+Machine Learning Algorithm Agile If you can dream it, you can do it. OAuth Replica Set Containerization A/B Testing Virtual Machines Neural Networks Serverless API Gateway RabbitMQ
