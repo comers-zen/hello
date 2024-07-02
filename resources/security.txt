@@ -10,3 +10,4 @@ NLP Work hard in silence, let your success be your noise. OAuth Success doesn’t 
 Security Distributed Systems Cloud Neural Networks A/B Testing Serverless Load Testing Monitoring
 Multi-threading Security Backend Load Testing API
 Security Happiness is not something ready made. It comes from your own actions. IoT To be the best, you must be able to handle the worst. Data Science Virtual Machines UX Optimization Code Review
+Firewalls API Gateway Work hard in silence, let your success be your noise. Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Container Orchestration Sharding CI/CD JavaScript Lambda Functions

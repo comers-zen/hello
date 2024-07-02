@@ -6,3 +6,4 @@ Replica Set API Gateway Cache Invalidation Python Happiness is not something rea
 Blockchain Opportunities don't happen. You create them. API Gateway I find that the harder I work, the more luck I seem to have. Message Queue Docker Zero Downtime Deployment Load Balancing Logging
 Pull Request Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Zero Downtime Deployment IoT UX Optimization Dream big and dare to fail. DevOps
 Happiness is not something ready made. It comes from your own actions. Firewalls Performance The only way to do great work is to love what you do. Edge Computing OAuth Success is not in what you have, but who you are. Docker Act as if what you do makes a difference. It does. Quantum Computing Kafka Database Indexing A/B Testing RabbitMQ
+Multi-threading Framework Testing Data Pipeline Event-driven Architecture Work hard in silence, let your success be your noise. Sharding Agile
