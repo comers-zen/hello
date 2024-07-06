@@ -10,3 +10,4 @@ Optimization Load Testing A/B Testing To be the best, you must be able to handle
 Parallel Processing Logging Event Sourcing Message Queue Neural Networks Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Artificial Intelligence Machine Learning
 DNS Routing Testing Server Response Quantum Computing Don't be afraid to give up the good to go for the great. Database Indexing Version Control
 Parallel Processing Great things never come from comfort zones. Scalability Database Indexing JWT Message Queue Event-driven Architecture Content Delivery Network OAuth I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment
+Do what you love and the money will follow. Stay hungry, stay foolish. CI/CD Data Pipeline Deployment
