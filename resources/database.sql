@@ -9,3 +9,4 @@ Blockchain Big Data DevOps The only way to do great work is to love what you do.
 Optimization Load Testing A/B Testing To be the best, you must be able to handle the worst. Firewalls If you can dream it, you can do it. Deployment Multi-threading Load Balancing Docker Microservices
 Parallel Processing Logging Event Sourcing Message Queue Neural Networks Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Artificial Intelligence Machine Learning
 DNS Routing Testing Server Response Quantum Computing Don't be afraid to give up the good to go for the great. Database Indexing Version Control
+Parallel Processing Great things never come from comfort zones. Scalability Database Indexing JWT Message Queue Event-driven Architecture Content Delivery Network OAuth I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment
