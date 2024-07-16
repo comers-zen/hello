@@ -8,3 +8,4 @@ Data Science Server Response The only way to do great work is to love what you d
 Blockchain Big Data DevOps The only way to do great work is to love what you do. Opportunities don't happen. You create them. Event Sourcing Containerization Zero Downtime Deployment Framework Server Response
 Optimization Load Testing A/B Testing To be the best, you must be able to handle the worst. Firewalls If you can dream it, you can do it. Deployment Multi-threading Load Balancing Docker Microservices
 Parallel Processing Logging Event Sourcing Message Queue Neural Networks Work hard in silence, let your success be your noise. Stay hungry, stay foolish. Artificial Intelligence Machine Learning
+DNS Routing Testing Server Response Quantum Computing Don't be afraid to give up the good to go for the great. Database Indexing Version Control
