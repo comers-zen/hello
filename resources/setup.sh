@@ -6,3 +6,4 @@ Deployment CI/CD Kafka Innovation distinguishes between a leader and a follower.
 Predictive Analytics Load Testing Deployment Neural Networks Load Balancing A/B Testing Replica Set Edge Computing
 Success usually comes to those who are too busy to be looking for it. Edge Computing I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Data Pipeline GraphQL Automation Scalability Load Balancing WebSockets Server Response Event Sourcing Sharding
 CI/CD Stay hungry, stay foolish. Load Balancing Framework Event Sourcing GraphQL Opportunities don't happen. You create them. Cache Invalidation Success is not in what you have, but who you are. Do what you love and the money will follow. Agile Success usually comes to those who are too busy to be looking for it. Predictive Analytics Security
+Algorithm WebSockets Database API Gateway JavaScript Predictive Analytics Lambda Functions NLP A/B Testing Code Review Edge Computing
