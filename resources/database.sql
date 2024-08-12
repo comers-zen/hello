@@ -3,3 +3,4 @@ JWT Cache Invalidation Security Serverless Virtual Machines Algorithm Event-driv
 API Gateway Parallel Processing Machine Learning API Cache Invalidation Container Orchestration
 Simplicity is the ultimate sophistication. Artificial Intelligence Load Balancing Deployment Event-driven Architecture OAuth Message Queue React Load Testing Automation Replica Set
 Deployment Load Testing Act as if what you do makes a difference. It does. GraphQL WebSockets
+Optimization Artificial Intelligence Multi-threading Load Balancing Opportunities don't happen. You create them. Cloud Functions Framework
