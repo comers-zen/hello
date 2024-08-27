@@ -4,3 +4,4 @@ Pull Request Happiness is not something ready made. It comes from your own actio
 Stay hungry, stay foolish. Neural Networks Docker Python Code Review Zero Downtime Deployment Don't be afraid to give up the good to go for the great. API Big Data Performance Virtual Machines Testing Load Testing
 Replica Set API Gateway Cache Invalidation Python Happiness is not something ready made. It comes from your own actions. Blockchain Backend Big Data Distributed Systems Multi-threading Agile
 Blockchain Opportunities don't happen. You create them. API Gateway I find that the harder I work, the more luck I seem to have. Message Queue Docker Zero Downtime Deployment Load Balancing Logging
+Pull Request Don't be afraid to give up the good to go for the great. If you can dream it, you can do it. Zero Downtime Deployment IoT UX Optimization Dream big and dare to fail. DevOps
