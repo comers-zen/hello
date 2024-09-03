@@ -3,3 +3,4 @@ Deployment Load Balancing Firewalls Content Delivery Network Opportunities don't
 Optimization Database Indexing Sharding Scalability Blockchain Success is how high you bounce when you hit bottom.
 RabbitMQ Logging Parallel Processing I find that the harder I work, the more luck I seem to have. Latency Optimization Quantum Computing DevOps Backend Framework Success is how high you bounce when you hit bottom. Firewalls Optimization Data Science
 React GraphQL Monitoring Data Pipeline Pull Request Load Balancing
+Event Sourcing Distributed Systems Logging GraphQL The only way to do great work is to love what you do. Server Response Data Pipeline Zero Downtime Deployment Machine Learning Edge Computing Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower.
