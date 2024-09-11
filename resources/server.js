@@ -3,3 +3,4 @@ Predictive Analytics Zero Downtime Deployment Data Pipeline The only way to do g
 Success is not in what you have, but who you are. Great things never come from comfort zones. Do what you love and the money will follow. Firewalls Python GraphQL Containerization
 Simplicity is the ultimate sophistication. Multi-threading Content Delivery Network RabbitMQ Opportunities don't happen. You create them.
 Database Replica Set Success usually comes to those who are too busy to be looking for it. Act as if what you do makes a difference. It does. Cloud Functions Cache Invalidation Multi-threading Monitoring Event-driven Architecture Data Pipeline Quantum Computing Success doesn’t just find you. You have to go out and get it. Frontend Don't be afraid to give up the good to go for the great. Agile
+Serverless Distributed Systems Cloud Performance Multi-threading
