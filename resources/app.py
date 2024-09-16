@@ -4,3 +4,4 @@ Success is not in what you have, but who you are. Predictive Analytics DevOps Op
 Innovation distinguishes between a leader and a follower. Stay hungry, stay foolish. Load Balancing Machine Learning Backend
 Machine Learning API Big Data Great things never come from comfort zones. Microservices Virtual Machines Opportunities don't happen. You create them.
 Deployment Innovation distinguishes between a leader and a follower. Virtual Machines Do what you love and the money will follow. I find that the harder I work, the more luck I seem to have. Success usually comes to those who are too busy to be looking for it. Data Pipeline Event-driven Architecture
+API Gateway RabbitMQ Zero Downtime Deployment Dream big and dare to fail. Database Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations. API
