@@ -2,3 +2,4 @@ Version Control Load Balancing API To be the best, you must be able to handle th
 Python Machine Learning Great things never come from comfort zones. Deployment Security Cloud Functions Content Delivery Network Kubernetes Act as if what you do makes a difference. It does. Message Queue DNS Routing Latency Optimization
 Algorithm Big Data Artificial Intelligence Load Testing Replica Set Content Delivery Network Machine Learning Latency Optimization
 Cache Invalidation Zero Downtime Deployment Testing JavaScript Framework API Gateway OAuth Monitoring Work hard in silence, let your success be your noise. Container Orchestration Logging Don't be afraid to give up the good to go for the great.
+Distributed Systems A/B Testing Automation Performance Work hard in silence, let your success be your noise. The only way to do great work is to love what you do.
