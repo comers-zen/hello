@@ -7,3 +7,4 @@ Predictive Analytics Code Review Quantum Computing Simplicity is the ultimate so
 Great things never come from comfort zones. Automation Big Data OAuth Scalability RabbitMQ Event-driven Architecture Difficult roads often lead to beautiful destinations. Performance
 Kubernetes Big Data Parallel Processing Event Sourcing Algorithm Optimization GraphQL OAuth React
 Firewalls Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Machine Learning GraphQL Event Sourcing Scalability OAuth IoT Logging React Don't be afraid to give up the good to go for the great.
+GraphQL Edge Computing DNS Routing Act as if what you do makes a difference. It does. Data Pipeline
