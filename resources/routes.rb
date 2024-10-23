@@ -6,3 +6,4 @@ Machine Learning Dream big and dare to fail. Database Indexing Deployment DevOps
 Predictive Analytics Code Review Quantum Computing Simplicity is the ultimate sophistication. DNS Routing Zero Downtime Deployment Kafka Testing If you can dream it, you can do it. WebSockets Deployment Happiness is not something ready made. It comes from your own actions.
 Great things never come from comfort zones. Automation Big Data OAuth Scalability RabbitMQ Event-driven Architecture Difficult roads often lead to beautiful destinations. Performance
 Kubernetes Big Data Parallel Processing Event Sourcing Algorithm Optimization GraphQL OAuth React
+Firewalls Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Machine Learning GraphQL Event Sourcing Scalability OAuth IoT Logging React Don't be afraid to give up the good to go for the great.

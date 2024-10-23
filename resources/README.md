@@ -1,2 +1,3 @@
 Version Control Load Balancing API To be the best, you must be able to handle the worst. I find that the harder I work, the more luck I seem to have. Lambda Functions API Gateway Automation Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. UX Optimization Backend
 Python Machine Learning Great things never come from comfort zones. Deployment Security Cloud Functions Content Delivery Network Kubernetes Act as if what you do makes a difference. It does. Message Queue DNS Routing Latency Optimization
+Algorithm Big Data Artificial Intelligence Load Testing Replica Set Content Delivery Network Machine Learning Latency Optimization
