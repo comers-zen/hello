@@ -1,2 +1,3 @@
 DevOps A/B Testing Artificial Intelligence Stay hungry, stay foolish. Machine Learning Kubernetes Opportunities don't happen. You create them. Event Sourcing To be the best, you must be able to handle the worst.
 Predictive Analytics Zero Downtime Deployment Data Pipeline The only way to do great work is to love what you do. Big Data DNS Routing Latency Optimization Success doesn’t just find you. You have to go out and get it. API Gateway Cloud Functions Happiness is not something ready made. It comes from your own actions. Multi-threading Microservices Event-driven Architecture Message Queue
+Success is not in what you have, but who you are. Great things never come from comfort zones. Do what you love and the money will follow. Firewalls Python GraphQL Containerization
