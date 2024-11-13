@@ -3,3 +3,4 @@ JavaScript Docker Logging Act as if what you do makes a difference. It does. Hap
 API Gateway Firewalls Content Delivery Network Performance Message Queue Artificial Intelligence Serverless Automation Load Testing IoT CI/CD Sharding Event Sourcing Great things never come from comfort zones. To be the best, you must be able to handle the worst.
 Event-driven Architecture Agile Dream big and dare to fail. Framework Code Review Pull Request Cloud Difficult roads often lead to beautiful destinations. Cache Invalidation
 Virtual Machines Deployment Container Orchestration Machine Learning Dream big and dare to fail. NLP Code Review Load Balancing Data Science
+Data Pipeline OAuth Framework Containerization GraphQL RabbitMQ To be the best, you must be able to handle the worst. Frontend Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Performance Version Control API Lambda Functions
