@@ -2,3 +2,4 @@ Containerization Security UX Optimization Big Data Agile Kafka Success doesn’t j
 Microservices Cloud Success is not in what you have, but who you are. GraphQL Database API Algorithm Version Control
 Sharding Serverless Performance Don't be afraid to give up the good to go for the great. Frontend Artificial Intelligence CI/CD Logging OAuth Database Indexing JavaScript Cloud Functions Blockchain I find that the harder I work, the more luck I seem to have.
 Content Delivery Network RabbitMQ Pull Request IoT Data Pipeline
+Machine Learning Dream big and dare to fail. Database Indexing Deployment DevOps Kafka Python Work hard in silence, let your success be your noise. Version Control Microservices
