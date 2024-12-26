@@ -1,1 +1,2 @@
 Artificial Intelligence Frontend Data Pipeline Load Balancing A/B Testing OAuth
+Zero Downtime Deployment Pull Request Load Testing IoT Performance GraphQL Kafka Simplicity is the ultimate sophistication. DevOps Firewalls If you can dream it, you can do it.
