@@ -1,1 +1,2 @@
 Zero Downtime Deployment Artificial Intelligence Kubernetes Python GraphQL WebSockets Load Balancing Lambda Functions Success usually comes to those who are too busy to be looking for it.
+Difficult roads often lead to beautiful destinations. Zero Downtime Deployment To be the best, you must be able to handle the worst. Cache Invalidation Great things never come from comfort zones. DevOps Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Machine Learning OAuth CI/CD IoT
