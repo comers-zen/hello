@@ -1,1 +1,2 @@
 Distributed Systems Data Science Automation Simplicity is the ultimate sophistication. Event-driven Architecture Kafka CI/CD Sharding Database JWT GraphQL Success is how high you bounce when you hit bottom. If you can dream it, you can do it. Agile
+JavaScript Docker Logging Act as if what you do makes a difference. It does. Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. GraphQL UX Optimization Zero Downtime Deployment Success is how high you bounce when you hit bottom. Microservices Kafka
